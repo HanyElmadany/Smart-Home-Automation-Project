@@ -1,12 +1,12 @@
 # Smart-Home-Automation-Project
 
 Components:
-1-	2X Atmega32 Microcontroller.
-2-	HC-06 Bluetooth Module.
-3-	LM016L LCD.
-4-	2X DC Motors.
-5-	L298 Motor Driver Module.
-6-	2X LED.
+1-	2X Atmega32 Microcontroller.**
+2-	HC-06 Bluetooth Module.**
+3-	LM016L LCD.**
+4-	2X DC Motors.**
+5-	L298 Motor Driver Module.**
+6-	2X LED.**
 
 Design:
 This program designed to control home automation, we have 2 actuators (2 LEDs) and 2 motors control window curtains of 2 pieces 
